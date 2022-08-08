@@ -1,4 +1,4 @@
-// callback menggunakan promise
+// callback tanpa menggunakan promise
 const getMonth = (callback) => {
     setTimeout(() => {
         let error = false
