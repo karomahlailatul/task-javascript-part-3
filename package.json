@@ -1,0 +1,23 @@
+{
+  "name": "day-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task_1_cekDate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karomahlailatul/task_javascript_part_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karomahlailatul/task_javascript_part_3/issues"
+  },
+  "homepage": "https://github.com/karomahlailatul/task_javascript_part_3#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
