@@ -1,6 +1,5 @@
 import fetch from 'node-fetch';
 
-
 const url = ("https://jsonplaceholder.typicode.com/users");
 fetch(url)
     .then(response => {
